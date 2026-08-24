@@ -5,6 +5,7 @@ An interactive **Text-to-Speech (TTS) web application** that converts written te
 <p align="center">
   <img src="./Result.gif" alt="TTS Workflow Demo" width="800">
 </p>
+<a href="./Result.mp4" cursor='pointer'>See this video</a>
 
 The application connects to an **OpenAI-compatible API endpoint provided by AvalAI**, generates speech from the user's text, saves the generated audio as an MP3 file, and makes it available directly through the web interface.
 
